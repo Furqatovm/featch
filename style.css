@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+};
+
+
+.lists{
+    display: flex;
+}
+
+.card{
+    width: 20%;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
